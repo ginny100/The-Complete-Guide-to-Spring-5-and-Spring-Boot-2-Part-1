@@ -5,10 +5,14 @@ This course is well-organized with high-quality content.
 
 ## Table of Contents
 
-1. Spring Basics
-- Lesson 1: [Dependency]()
-- Lesson 2: [Decoupling Components]()
-- Lesson 3: [Managing Beans and Dependencies]()
+### 1. Spring Basics
+- Lesson 1: [Dependency](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson1)
+- Lesson 2: [Decoupling Components](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson2)
+- Lesson 3: [Managing Beans and Dependencies](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson3)
 - Lesson 4:
 - Lesson 5:
 - Lesson 6:
+
+### 2. Spring In-depth
+
+### 3. Spring Boot
