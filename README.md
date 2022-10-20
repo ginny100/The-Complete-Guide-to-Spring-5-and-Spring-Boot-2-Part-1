@@ -15,5 +15,6 @@ This course is well-organized with high-quality content.
 - Lesson 7: [Constructor and Setter Injection](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson7)
 
 ### 2. Spring In-depth
+- Lesson 8: [Bean Scope](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson8)
 
 ### 3. Spring Boot
