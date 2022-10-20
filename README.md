@@ -11,8 +11,8 @@ This course is well-organized with high-quality content.
 - Lesson 3: [Managing Beans and Dependencies](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson3)
 - Lesson 4: [Autowiring By Type — @Primary](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson4)
 - Lesson 5: [Autowiring By Name](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson5)
-- Lesson 6:
-- Lesson 7: 
+- Lesson 6: [Autowiring — @Qualifier](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson6)
+- Lesson 7: [Constructor and Setter Injection](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson7)
 
 ### 2. Spring In-depth
 
