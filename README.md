@@ -16,5 +16,6 @@ This course is well-organized with high-quality content.
 
 ### 2. Spring In-depth
 - Lesson 8: [Bean Scope](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson8)
+- Lesson 9: [Mixing Bean Scope](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson9)
 
 ### 3. Spring Boot
