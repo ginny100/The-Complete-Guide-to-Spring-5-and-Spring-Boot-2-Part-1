@@ -19,5 +19,6 @@ This course is well-organized with high-quality content.
 - Lesson 9: [Mixing Bean Scope](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson9)
 - Lesson 10: [@ComponentScan](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson10)
 - Lesson 11: [Bean Lifecycle: @PostConstruct, @ PreDestroy](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson11)
+- Lesson 12: [Bean Lifecycle: Prototype Scoped Beans](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson12)
 
 ### 3. Spring Boot
