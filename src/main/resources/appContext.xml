@@ -1,22 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This block (line 4 to line 22) is used in lesson 15.
+     Comment it (line 4 to line 22) out in lesson 16 and use the next block instead -->
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--       xsi:schemaLocation="http://www.springframework.org/schema/beans-->
+<!--            http://www.springframework.org/schema/beans/spring-beans.xsd">-->
+<!--    &lt;!&ndash; bean definitions &ndash;&gt;-->
+<!--    <bean id="contentBasedFilter"-->
+<!--          class="io.datajek.springbasics.movierecommendersystem.lesson15.ContentBasedFilter">-->
+<!--    </bean>-->
+
+<!--    <bean id="collaborativeFilter"-->
+<!--          class="io.datajek.springbasics.movierecommendersystem.lesson15.CollaborativeFilter">-->
+<!--    </bean>-->
+
+<!--    <bean id="recommenderImplementation"-->
+<!--          class="io.datajek.springbasics.movierecommendersystem.lesson15.RecommenderImplementation">-->
+<!--        &lt;!&ndash;<property name="filter" ref="collaborativeFilter"/> &ndash;&gt;-->
+<!--        <constructor-arg ref="collaborativeFilter"/>-->
+<!--    </bean>-->
+<!--</beans>-->
+
+<!-- This block (line 26 to line 40) is used in lesson 16.
+     Comment it (line 26 to line 40) out in lesson 15 and use the above block instead -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
-            http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <!-- bean definitions -->
-    <bean id="contentBasedFilter"
-          class="io.datajek.springbasics.movierecommendersystem.lesson15.ContentBasedFilter">
-    </bean>
-
-    <bean id="collaborativeFilter"
-          class="io.datajek.springbasics.movierecommendersystem.lesson15.CollaborativeFilter">
-    </bean>
-
-    <bean id="recommenderImplementation"
-          class="io.datajek.springbasics.movierecommendersystem.lesson15.RecommenderImplementation">
-        <!--<property name="filter" ref="collaborativeFilter"/> -->
-        <constructor-arg ref="collaborativeFilter"/>
+                     http://www.springframework.org/schema/beans/spring-beans.xsd
+                     http://www.springframework.org/schema/context
+                     http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- enable component scan -->
+    <context:component-scan
+            base-package="io.datajek.springbasics.movierecommendersystem.lesson16" />
+    <bean id="recommenderImpl"
+          class="io.datajek.springbasics.movierecommendersystem.lesson16.RecommenderImplementation">
+<!--        <property name="filter" ref="collaborativeFilter"/>-->
     </bean>
 </beans>
 
-<!--This file is used for the purpose of lesson 15 only-->
+<!-- This file is used for the purpose of lesson 15 and 16 -->
