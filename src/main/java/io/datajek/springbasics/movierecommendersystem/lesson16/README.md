@@ -1,4 +1,4 @@
-# Lesson 16: XML Configuration with Java Annotations
+# Lesson 16: XML Configuration with Java Annotations - Part 1
 
 ## Overview
 
