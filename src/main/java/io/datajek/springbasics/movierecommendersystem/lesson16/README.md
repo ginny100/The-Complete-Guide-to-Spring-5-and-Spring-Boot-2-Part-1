@@ -4,7 +4,7 @@
 
 ## Demonstrated Concepts
 
-### <context:component-scan> tag
+### `<context:component-scan>` tag
 
-### <context:annotation-config> tag
+### `<context:annotation-config>` tag
 
