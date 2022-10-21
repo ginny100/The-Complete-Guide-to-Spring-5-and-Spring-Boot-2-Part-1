@@ -14,7 +14,7 @@ The changes that we make in this lesson that enabled us to run a Spring Boot app
 - Replacing `@SpringBootApplication` with `@Configuration` and `@ComponentScan`.
 - Replacing the `SpringApplication` class with the `AnnotationConfigApplicationContext` class.
 
-> __Note from `ginny100`:__ Highly recommend creating a whole new project using Spring Initializr with a separate `pom.xml` file and all files from `lesson14` package of this current project to follow along in this lesson.
+> __Note from `ginny100`:__ Highly recommend creating a whole new project using Spring Initializr with a separate `pom.xml` file and the whole `lesson14` package of this current project to follow along in this lesson.
 
 ## Demonstrated Concepts
 

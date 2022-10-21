@@ -4,7 +4,7 @@
 
 In this lesson, we will learn how to configure a Spring application using XML. We will remove annotations from our application altogether and use XML to define beans and dependencies.
 
-> __Note from `ginny100`:__ Highly recommend creating a whole new project using Spring Initializr with all files from `lesson15` package of this current project to follow along in this lesson.
+> __Note from `ginny100`:__ Highly recommend creating a whole new project using Spring Initializr with the whole `lesson15` package of this current project to follow along in this lesson.
 
 ## Demonstrated Concepts
 
