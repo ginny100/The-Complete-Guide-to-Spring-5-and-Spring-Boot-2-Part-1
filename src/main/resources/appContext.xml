@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- bean definitions -->
+    <bean id="contentBasedFilter"
+          class="io.datajek.springbasics.movierecommendersystem.lesson15.ContentBasedFilter">
+    </bean>
+
+    <bean id="collaborativeFilter"
+          class="io.datajek.springbasics.movierecommendersystem.lesson15.CollaborativeFilter">
+    </bean>
+
+    <bean id="recommenderImplementation"
+          class="io.datajek.springbasics.movierecommendersystem.lesson15.RecommenderImplementation">
+        <!--<property name="filter" ref="collaborativeFilter"/> -->
+        <constructor-arg ref="collaborativeFilter"/>
+    </bean>
+</beans>
+
+<!--This file is used for the purpose of lesson 15 only-->
