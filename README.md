@@ -22,5 +22,6 @@ This course is well-organized with high-quality content.
 - Lesson 12: [Bean Lifecycle: Prototype Scoped Beans](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson12)
 - Lesson 13: [Contexts and Dependency Injection Framework](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson13)
 - Lesson 14: [Spring Application Configuration](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson14)
+- Lesson 15: [XML Application Configuration](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson15)
 
 ### 3. Spring Boot
