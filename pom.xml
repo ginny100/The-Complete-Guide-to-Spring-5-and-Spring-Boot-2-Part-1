@@ -17,10 +17,19 @@
 		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
+<!--		This dependency was initialized when creating this project with Spring Initializr.
+			It can be replaced by the following spring-core dependency in lesson 14 -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
+
+<!--		This dependency is used in lesson 14.
+			It can be replaced by the above spring-boot-starter dependency in lesson 1-13 -->
+<!--		<dependency>-->
+<!--			<groupId>org.springframework</groupId>-->
+<!--			<artifactId>spring-core</artifactId>-->
+<!--		</dependency>-->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -28,11 +37,19 @@
 			<scope>test</scope>
 		</dependency>
 
+<!--		This dependency is unnecessary in lesson 1-12, so it can be commented out -->
 		<dependency>
 			<groupId>javax.inject</groupId>
 			<artifactId>javax.inject</artifactId>
 			<version>1</version>
 		</dependency>
+
+<!--		This dependency is unnecessary in lesson 1-13, so it can be commented out.
+ 			It is used together with the spring-core dependency in lesson 14 -->
+<!--		<dependency>-->
+<!--			<groupId>org.springframework</groupId>-->
+<!--			<artifactId>spring-context</artifactId>-->
+<!--		</dependency>-->
 	</dependencies>
 
 	<build>
