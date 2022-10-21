@@ -26,5 +26,3 @@ This course is well-organized with high-quality content.
 - Lesson 16: [XML Configuration with Java Annotations - Part 1](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson16)
 - Lesson 17: [XML Configuration with Java Annotations - Part 2](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson17)
 - Lesson 18: [Stereotype Annotations](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson18)
-
-### 3. Spring Boot
