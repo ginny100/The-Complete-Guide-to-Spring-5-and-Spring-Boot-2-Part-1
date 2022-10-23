@@ -27,3 +27,7 @@ This course is well-organized with high-quality content.
 - Lesson 17: [XML Configuration with Java Annotations - Part 2](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson17)
 - Lesson 18: [Stereotype Annotations](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson18)
 - Lesson 19: [Using an External Property File](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2/tree/master/src/main/java/io/datajek/springbasics/movierecommendersystem/lesson19)
+
+## Other Parts
+
+- Part 2: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2)
