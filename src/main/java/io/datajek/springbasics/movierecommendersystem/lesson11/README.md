@@ -1,4 +1,4 @@
-# Lesson 11: Bean Lifecycle: @PostConstruct, @ PreDestroy
+# Lesson 11: Bean Lifecycle: @PostConstruct, @PreDestroy
 
 ## Overview
 
